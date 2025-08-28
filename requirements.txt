@@ -1,0 +1,9 @@
+crewai 
+crewai-tools
+google-api-python-client
+google-generativeai   
+langchain
+python-dotenv
+tavily-python
+wikipedia-api
+streamlit
